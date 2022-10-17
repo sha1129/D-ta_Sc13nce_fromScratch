@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr  9 18:45:19 2020
-
-@author: turjo
 """
 
 """
