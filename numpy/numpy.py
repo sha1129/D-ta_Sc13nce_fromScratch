@@ -2,7 +2,6 @@
 """
 Created on Wed May 13 20:36:50 2020
 
-@author: turjo
 """
 
 import numpy as np
