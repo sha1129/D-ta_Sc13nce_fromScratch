@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr  8 20:23:28 2020
-
-@author: turjo
 """
 
 def double (x):
