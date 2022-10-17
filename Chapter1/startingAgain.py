@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr  7 15:59:53 2020
-
-@author: turjo
 """
 
 #white space formating 
